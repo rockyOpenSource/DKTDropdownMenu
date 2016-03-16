@@ -1,0 +1,13 @@
+PODS:
+  - DTKDropdownMenu (0.0.3):
+    - Masonry (~> 0.6)
+  - Masonry (0.6.4)
+
+DEPENDENCIES:
+  - DTKDropdownMenu (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  DTKDropdownMenu: e247b11147985fc29734ad5053586c32c1b76909
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+
+COCOAPODS: 0.39.0
